@@ -172,3 +172,9 @@ if __name__ == "__main__":
     prime_numbers = find_primes(n)
     print(prime_numbers)
 ```
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License — see the [LICENSE](https://github.com/niccronc/gemini-agent/blob/main/LICENSE) file for details.
