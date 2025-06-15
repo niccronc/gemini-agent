@@ -1,6 +1,9 @@
 # 🛠️ Embodying Gemini with agentic capabilities
 
-This project embodies an LLM with agentic capabilities, and allows a user to interact with through the terminal.
+This project embodies an LLM with agentic capabilities, and allows a user to interact with it through the terminal.
+
+This is a PoC, demonstrating how simple it is to build agentic capabilities on top of an LLM. 
+It is not meant to be a commercial-level product.
 
 Last updated: June 15, 2025.
 
