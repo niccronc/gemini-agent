@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.env
+venv/
+.env.*
+*.egg-info/
+dist/
+build/
+.ipynb_checkpoints/
+.idea/
+.code-editing-agent-venv/
+notebook_experiments/

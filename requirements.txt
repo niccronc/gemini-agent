@@ -1,0 +1,8 @@
+google-genai
+mcp
+requests
+jupyter
+ipykernel
+langgraph
+langchain_core
+crewai[tools]
